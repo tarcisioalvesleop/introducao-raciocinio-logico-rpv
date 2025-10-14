@@ -65,26 +65,30 @@ console.log('##------------------------------------------------##')
 
 console.log('6. Se o código para "GATO" é 4130, qual é o código para "PATO"?');
 // trocando Gato por 4130, pato será 130
-console.log('R: 8130.')
+console.log('R: 13130.')
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 6-------------------------------//
 console.log('7. Você tem 50 moedas de 1 real e 50 moedas de 50 centavos. No total, quanto você tem?');
-
+// 50 * 1 = 50 50 * 0.5 = 25 50+25=75
+console.log('R: 75.00.')
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 7-------------------------------//
 console.log('8. Uma torneira pinga 1 gota a cada segundo. Quantas gotas ela pingará em 1 minuto?');
-
+// 60 segundos equivale a 1 minuto. Logo 60 gotas
+console.log('R: 60 gotas')
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 8-------------------------------//
 console.log('9. Se todos os corvos são pretos e minha caneta é um corvo, então minha caneta é preta. Essa afirmação é logicamente válida?');
-
+console.log('R: Verdade.')
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 9-------------------------------//
 console.log('10. Se 3 coelhos comem 3 cenouras em 3 minutos, quanto tempo 10 coelhos levarão para comer 10 cenouras?');
+// cada coelho gasta 1 minuto para comer uma cenoura, logo 10 coelhos levaram 10 minutos
+console.log('R: 10 minutos.') 
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 10-------------------------------//
