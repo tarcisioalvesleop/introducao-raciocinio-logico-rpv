@@ -64,8 +64,8 @@ console.log('##------------------------------------------------##')
 //-----------------------FIM Número 5-------------------------------//
 
 console.log('6. Se o código para "GATO" é 4130, qual é o código para "PATO"?');
-// trocando Gato por 4130, pato será 130
-console.log('R: 13130.')
+// abc 1 def 2 ghi 3 jkl 4 mno 5 prs 6 tuv 7
+console.log('R: 7130.')
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 6-------------------------------//
@@ -110,8 +110,8 @@ console.log('R: 1 real')
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 13-------------------------------//
 console.log('14. Um relógio digital mostra 08:08. Qual será a próxima vez que ele mostrará a mesma configuração de dígitos?')
-// divisivel por 2
-console.log('R: 10:10 ')
+// 
+console.log('R: 09:09 ')
 
 console.log('##------------------------------------------------##')
 //-----------------------FIM Número 14-------------------------------//
